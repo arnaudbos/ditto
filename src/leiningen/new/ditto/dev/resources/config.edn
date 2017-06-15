@@ -1,0 +1,4 @@
+{:production false
+ :database {:component dev-database/dev-database}
+ :api {}
+ :http {:port 5000}}

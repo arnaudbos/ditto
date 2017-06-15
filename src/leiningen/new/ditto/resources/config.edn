@@ -1,0 +1,4 @@
+{:production true
+ :database {:component {{ns-name}}.database.db/db}
+ :api {}
+ :http {:port 5000}}
